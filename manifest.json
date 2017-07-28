@@ -1,0 +1,16 @@
+{
+  "JSE Version": ALPHA,
+
+  "name": "JSE ALPHA",
+  "description": "JSE IS IN ALPHA DO NOT EXCPECT A LOT FROM JSE!!!!!!.",
+  "Version": "ALPHA",
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab",
+    "https://ajax.googleapis.com/"
+  ]
+}
